@@ -1,4 +1,4 @@
-# 我的机器学之旅
+# 我的机学习之旅
 Collections of my machine_learning and deep_learning jupyter notebooks  
 
 
