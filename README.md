@@ -3,9 +3,10 @@ Collections of my machine_learning and deep_learning jupyter notebooks
 
 
 机器学习：  
-   1、机器学习的基本流程：https://nbviewer.jupyter.org/github/superjcd/machine_learning-and-deep_learning/blob/master/Full_Project_Process.ipynb       
-   2、各种模型合并方法（emsemble methods：bagging & boosting）：https://nbviewer.jupyter.org/github/superjcd/machine_learning-and-deep_learning/blob/master/Ensemble%20methods.ipynb    
+   1、[机器学习的基本流程](https://nbviewer.jupyter.org/github/superjcd/machine_learning-and-deep_learning/blob/master/Full_Project_Process.ipynb)          
+   2、各种模型合并方法（emsemble methods：bagging & boosting）：https://nbviewer.jupyter.org/github/superjcd/machine_learning-and-deep_learning/blob/master/Ensemble%20methods.ipynb        
    3、特征工程（feature enginering）进阶：https://nbviewer.jupyter.org/github/superjcd/machine_learning-and-deep_learning/blob/master/Advanced%20feature%20engineering%20.ipynb
+   4、特征工程进阶2：
 
 
 深度学习：  
